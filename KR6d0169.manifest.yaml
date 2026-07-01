@@ -1,0 +1,97 @@
+canonical_identifier: bkk:krp/KR6d0169/v1
+canonical_location: https://kanripo.org/bkk/KR6d0169/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四教儀集解
+  identifiers:
+    alt_id:
+    - X57n0976
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0976.xml
+    old_id: X57n0976
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0169_000.yaml, hash: 'sha256:ec81e3946d85fbea8ee1c0c25b63f428bed36e1d25e4e1a10d8eac7524f8ff94'}
+  - {seq: 1, filename: KR6d0169_001.yaml, hash: 'sha256:7a4d9ba58a016ef86e56da4ba0d4e1365fbdccb6867ce2d7dd5af7df6ea83550'}
+  - {seq: 2, filename: KR6d0169_002.yaml, hash: 'sha256:09a6e2a392dbcbec0107ad36e95d6b9f73cda9ce14cdb829f5d04c6872c21b95'}
+  - {seq: 3, filename: KR6d0169_003.yaml, hash: 'sha256:acb1131ea4453b53b5a8f5efb545052156bf9722484b6d82a0d1b47b5d73e1af'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0169_000.markers.yaml, hash: 'sha256:8ed5f11bdad0dc57dd1bb18ee48a558ee51a60aed5f9127e81c4e6457424c609'}
+  - {seq: 1, role: markers, filename: assets/KR6d0169_001.markers.yaml, hash: 'sha256:6bc08f34260b3eaddef6ce6c22eb4279be8c62f2821cdf5e3b71c02c8b35ed09'}
+  - {seq: 2, role: markers, filename: assets/KR6d0169_002.markers.yaml, hash: 'sha256:834a9f47ae11b5dc43d97039f1400f9a987381298eab410527949de7309b44a9'}
+  - {seq: 3, role: markers, filename: assets/KR6d0169_003.markers.yaml, hash: 'sha256:94203ebc7f00826395339db981f8af41bcd3210d3fe0e549334a40c480cd28bd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0169_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 976-A 天台四教集解卷上(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0169_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 25659
+  label: 天台四教儀科解卷上會永嘉記入於觀師本文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0169_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 四教儀集解
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0169_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 30379
+  label: 天台四教儀科解卷中會永嘉記入於觀師本文
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0169_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 32866
+  label: 天台四教儀科解卷下會永嘉記入於觀師本文
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0169_X_003-mulu-1
+    span:
+    - body
+    - 32690
+    - 32690
+  label: No. 976-B
+  type: mulu
+  level: 1
+hash: sha256:1d31e33c1f5cb799c0bfdd3ffcda136b5f051f8f48793064ade4a48e4d890653
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
