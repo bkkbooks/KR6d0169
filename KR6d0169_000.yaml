@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6d0169/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 天台四教集解卷上并序余治平四年冬於郡西之妙果而寄講焉明年夏諸新學請事文墨消釋高麗觀師所録天台四教于時權以霅川之科分節文之起盡散集諸部法言解釋義之綱要未逾二旬乃成三卷題目謂之四教集解焉草創才畢尚未琢磨便為學者傳寫流布世人咸將何晏集解致難而不曾以杜預集解為妨且儒之集解既存二説今之題目何必怪哉嗚呼管窺之局也而有斯惑焉今熙寧九年居大雲西院講訓之餘於是考核霅川之科未為盡善矣遂乃自出科文一貼仍又檢校疇昔集解頗有疏略也故重修飾亦為三卷所患識見荒蕪辭理鄙昧未能發明聖賢宦奧聊且備于初學分其句逗而已遐方近處見茲再定之文不須復留未治之本也
   hash: sha256:4ccc743314222ef11813044c204352e121e1d501bbbf7902f6ce552ba74d50ba
   markers:
   - {type: 序, offset: 0, content: No. 976-A 天台四教集解卷上(并序), id: KR6d0169_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 四教儀集解
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X57/X57n0976.xml
     old_id: X57n0976
-hash: sha256:f556dcda8b50268ffc81e4d13da821f6f591438b601e34e076639fe856d785b7
+hash: sha256:a6940c6aceadbc5e1a0d6e964b557ec791b924ff1303ab745ef9d9b20c97b78e

@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0169_000-X.yaml, hash: 'sha256:0542cfdc3be05560362551ebf644d22b8ee4c5fd42c50553d55ba3f566e658ac'}
+  - {seq: 0, filename: KR6d0169_000-X.yaml, hash: 'sha256:b199ac6f53663833ac571717fbed507e7e2126bedc21deb89f47e4bcd5610b61'}
   - {seq: 1, filename: KR6d0169_001-X.yaml, hash: 'sha256:c4e6ea594a8e1607ff1911ebf79abcc90f5027a7028ad07662a5850659943b1d'}
   - {seq: 2, filename: KR6d0169_002-X.yaml, hash: 'sha256:a8da8da9d03f0ebef8bb6d1144ca03bd303539449d872f8f54a11097996979b8'}
   - {seq: 3, filename: KR6d0169_003-X.yaml, hash: 'sha256:718897fd7584380b4cb63ffd8d67785543f74e2b5117207c1a04a5163153bfff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0169_000-X.markers.yaml, hash: 'sha256:1c5dcbd3bc1c24626318e468b7cc3a8f76b8221ddaa706204b19b005c7e563eb'}
+  - {seq: 0, role: markers, filename: assets/KR6d0169_000-X.markers.yaml, hash: 'sha256:d658eb8a771cc599da9798eb2d0cebc93744d579b05325b722388f1805ef4bbe'}
   - {seq: 1, role: markers, filename: assets/KR6d0169_001-X.markers.yaml, hash: 'sha256:eb84fd27c95c0e20d73d05ff1ba62dcba55b4c5e62be55d0e917c03887d56ae1'}
   - {seq: 2, role: markers, filename: assets/KR6d0169_002-X.markers.yaml, hash: 'sha256:09efb7479ec961f969eb7526061cc2529c4d6facb9f594d7a974b95b5641ea84'}
   - {seq: 3, role: markers, filename: assets/KR6d0169_003-X.markers.yaml, hash: 'sha256:9fe956a00d9e8b59e604db248c5d424113a233001bd9f07701190cd15cddad92'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0169_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 976-A 天台四教集解卷上(并序)
@@ -89,4 +89,4 @@ table_of_contents:
   label: No. 976-B
   type: mulu
   level: 1
-hash: sha256:6215106ba6220a54c9c32865d18fda4a9cedb9890aacc26e24630f61fa2e8e4e
+hash: sha256:dd8871c7196e058dd1bf40209fe6ea6c4da7603a0f5fa2b42559da0338fe01fa
